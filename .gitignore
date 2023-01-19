@@ -27,3 +27,10 @@
 /package.json.ember-try
 /package-lock.json.ember-try
 /yarn.lock.ember-try
+
+#macos
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
